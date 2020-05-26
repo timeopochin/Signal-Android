@@ -68,6 +68,7 @@
 <!-- ta --><item>Tamil தமிழ்</item>
 <!-- te --><item>Telugu తెలుగు</item>
 <!-- th --><item>Thai ภาษาไทย</item>
+<!-- tp --><item>Toki Pona</item>
 <!-- tr --><item>Türkçe</item>
 <!-- uk --><item>Ukrainian Українська</item>
 <!-- ur --><item>Urdu اردو‎</item>
@@ -141,6 +142,7 @@
       <item>ta</item>
       <item>te</item>
       <item>th</item>
+      <item>tp</item>
       <item>tr</item>
       <item>uk</item>
       <item>ur</item>
