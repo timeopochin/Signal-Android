@@ -22,7 +22,9 @@ public final class LanguageString {
 
     final Locale locale = createLocale(languageString);
 
-    if (!isValid(locale)) {
+    if (languageString.equals("tp")) {
+      return locale;
+    } else if (!isValid(locale)) {
       return null;
     } else {
       return locale;
